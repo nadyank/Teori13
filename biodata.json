@@ -1,0 +1,32 @@
+{
+  "result": [
+    {
+      "name": "Muhammad Azkal Azkia",
+      "birth_place": "Jakarta",
+      "birth_date": "24 April 2004",
+      "address": "Jakarta, Indonesia",
+      "photo": "https://imgur.com/a/phsQi47"
+    },
+    {
+      "name": "Nadya Nurasia Koimah",
+      "birth_place": "Bogor",
+      "birth_date": "16 Agustus 2004",
+      "address": "Bogor, Jawa Barat",
+      "photo": "https://imgur.com/a/ZfUtSEz"
+    },
+    {
+      "name": "Ni Putu Kayla Anandani",
+      "birth_place": "Jakarta",
+      "birth_date": "27 Desember 2004",
+      "address": "Jakarta, Indonesia",
+      "photo": "https://imgur.com/a/33Bdjqr"
+    },
+    {
+      "name": "Arif Wirawan",
+      "birth_place": "Jakarta",
+      "birth_date": "29 November 2003",
+      "address": "Jakarta, Indonesia",
+      "photo": "https://imgur.com/a/d64UFRB"
+    }
+  ]
+}
